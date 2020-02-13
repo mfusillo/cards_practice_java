@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ad2fd1c-0c2a-4a6d-8114-abc545294950" name="Default Changelist" comment="" />
+    <list default="true" id="3ad2fd1c-0c2a-4a6d-8114-abc545294950" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RankType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SuitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -16,9 +38,74 @@
     </option>
   </component>
   <component name="ProjectId" id="1Xkrxch8lk3aSvPacAIYB7nLEzD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager" selected="JUnit.DeckTest.deckHas51CardsAfterOneCard">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="card_game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="card_game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="card_game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeckTest.deckHas51CardsAfterOneCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="card_game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="METHOD_NAME" value="deckHas51CardsAfterOneCard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeckTest.deckHas52CardsAfterPopulatingIt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="card_game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="METHOD_NAME" value="deckHas52CardsAfterPopulatingIt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DeckTest.deckHas51CardsAfterOneCard" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="JUnit.DeckTest.deckHas52CardsAfterPopulatingIt" />
+        <item itemvalue="JUnit.DeckTest" />
+        <item itemvalue="JUnit.CardTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,5 +119,51 @@
       <updated>1581601180826</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1581601653515">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1581601653515" />
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1581605910044">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581605910044" />
+    <state width="1238" height="204" key="GridCell.Tab.0.center" timestamp="1581605910042">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1581605910042" />
+    <state width="1238" height="204" key="GridCell.Tab.0.left" timestamp="1581605910041">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1581605910041" />
+    <state width="1238" height="204" key="GridCell.Tab.0.right" timestamp="1581605910043">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1581605910043" />
+    <state width="1238" height="261" key="GridCell.Tab.1.bottom" timestamp="1581605140886">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="261" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581605140886" />
+    <state width="1238" height="261" key="GridCell.Tab.1.center" timestamp="1581605140884">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="261" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1581605140884" />
+    <state width="1238" height="261" key="GridCell.Tab.1.left" timestamp="1581605140883">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="261" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1581605140883" />
+    <state width="1238" height="261" key="GridCell.Tab.1.right" timestamp="1581605140885">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="261" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1581605140885" />
+    <state x="208" y="143" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581602926753">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="208" y="143" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.800@0.0.1280.800" timestamp="1581602926753" />
+    <state x="346" y="13" key="refactoring.ChangeSignatureDialog" timestamp="1581602042520">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="346" y="13" key="refactoring.ChangeSignatureDialog/0.0.1280.800@0.0.1280.800" timestamp="1581602042520" />
   </component>
 </project>
